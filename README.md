@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114195582/224937528-4b9ab948-c78b-428b-bdaf-cc335763b1b3.png" alt="Header" style="width: 100%; max-width: 800px;"/>
+</p>
+
 ## 👨‍💻 About Me
 - **Full Name:** Tran Chi Tam <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" />
 - **Year of Birth:** 2004
