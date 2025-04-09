@@ -20,3 +20,5 @@ I'm always open to collaborating on exciting projects or discussing innovative i
 
 Thanks for stopping by! 🌟
 
+Languages: ![Static Badge](https://img.shields.io/badge/Spring_Boot-green)
+
