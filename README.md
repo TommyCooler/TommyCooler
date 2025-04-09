@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
-- 📌 **Full Name:** Tran Chi Tam
-- 🎂 **Year of Birth:** 2004
-- 🇻🇳 **Location:** Vietnam
+- **Full Name:** Tran Chi Tam <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" />
+- **Year of Birth:** 2004
+- **Location:** Vietnam <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" />
 - 🎓 **Education:** Studying Software Engineering at **FPT University**
 
 ## 🚀 Interests & Research
