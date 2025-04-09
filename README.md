@@ -5,7 +5,8 @@
 ## 👨‍💻 About Me
 - **Full Name:** Tran Chi Tam <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" />
 - **Location:** Vietnam <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" />
-- **Education:** Studying Software Engineering at **FPT University** <img src="[https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif](https://media.giphy.com/media/AsyjTHWbAtTkDOhUii/giphy.gif?cid=790b76119ch06m68r5mt9fffwhrilvl6esgfkocylcdlinfa&ep=v1_stickers_search&rid=giphy.gif&ct=s)" width="30" />
+- **Education:** Studying Software Engineering at **FPT University**
+<img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" />
 
 ## 🚀 Interests & Research
 I am passionate about technology, especially in the field of 🤖 **Artificial Intelligence (AI)**. Currently, I'm stepping into research, exploring 🔍 **AI-driven Anomaly Detection** methodologies. As a newcomer in AI research, I'm highly enthusiastic about learning, experimenting, and contributing new ideas to the community.
