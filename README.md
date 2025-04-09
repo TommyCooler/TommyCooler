@@ -7,7 +7,7 @@
 - **Location:** Vietnam <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" />
 - **Education:** Studying Software Engineering at **FPT University**
 
-<img src="https://media.giphy.com/media/3oEduHhKAEwMoaEnpS/giphy.gif" width="30" />
+<img src="https://media.giphy.com/media/3oEduHhKAEwMoaEnpS/giphy.gif" width="30" style="width: 100%; max-width: 800px;" />
 
 ## 🚀 Interests & Research
 I am passionate about technology, especially in the field of 🤖 **Artificial Intelligence (AI)**. Currently, I'm stepping into research, exploring 🔍 **AI-driven Anomaly Detection** methodologies. As a newcomer in AI research, I'm highly enthusiastic about learning, experimenting, and contributing new ideas to the community.
