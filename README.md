@@ -8,11 +8,21 @@
 - **Education:** Studying Software Engineering at **FPT University**
 
 ## 🚀 Interests & Research
-I am currently pursuing my studies as a **Software Engineer** at **FPT University**, where I focus on designing, developing, and deploying software solutions that are efficient, scalable, and user-centric. My academic journey has equipped me with a strong foundation in programming, algorithms, system design, and software architecture.
+I am currently pursuing my studies as a 👨‍🎓 **Software Engineer** at FPT University, where I focus on 🧩 **designing**, 💻 **developing**, and 🚀 **deploying** software solutions that are efficient, scalable, and user-centric. My academic journey has equipped me with a strong foundation in:
 
-While my primary expertise lies in **Software Engineering**, I am deeply passionate about **Artificial Intelligence (AI)** and its transformative potential. I’m particularly interested in exploring how AI can be integrated into software systems to solve complex problems. Currently, I’m stepping into research, focusing on 🔍 **AI-driven Anomaly Detection methodologies**.
+🧠 Programming
 
-As a newcomer to AI research, I’m highly enthusiastic about **learning, experimenting, and contributing new ideas** to the community. My goal is to bridge the gap between software engineering and AI by building intelligent systems that are both robust and innovative.
+🧮 Algorithms
+
+🏗️ System Design
+
+🏛️ Software Architecture
+
+While my primary expertise lies in Software Engineering, I am deeply passionate about 🤖 Artificial Intelligence (AI) and its transformative potential. I’m particularly interested in exploring how AI can be integrated into software systems to solve complex problems.
+
+Currently, I’m stepping into research, focusing on 🔍 AI-driven Anomaly Detection methodologies.
+
+As a newcomer to AI research, I’m highly enthusiastic about 📚 learning, 🧪 experimenting, and 💡 contributing new ideas to the community. My goal is to bridge the gap between software engineering and AI by building intelligent systems that are both robust and innovative.
 
 ## 🌟 Skills & Learning
 - 💻 **Software Development:** Actively improving my programming and software engineering skills.
